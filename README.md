@@ -75,23 +75,23 @@ To set up and run the Minutes_Of_Meetings on your local machine, follow these st
 
 1. *Clone the Repository*:
 
-    shell
+    ```shell
     git clone https://github.com/Akshay1299/Minutes_Of_Meeting.git
-    
+    ```
 
 2. *Install Dependencies Frontend (React)*:
 
-    shell
+    ```shell
     cd frontend
     npm install
-    
+    ```
 
 3. *Install Dependencies Backend (Django)*:
 
-    shell
+    ```shell
     cd backend
     pip install -r requirements.txt
-    
+    ```
 
 4. *Database Setup*:
    - Create a database in SQL.
