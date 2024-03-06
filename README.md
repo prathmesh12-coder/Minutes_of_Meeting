@@ -76,7 +76,7 @@ To set up and run the Minutes_Of_Meetings on your local machine, follow these st
 1. *Clone the Repository*:
 
     ```shell
-    git clone https://github.com/Akshay1299/Minutes_Of_Meeting.git
+    git clone https://github.com/prathmesh12-coder/Minutes_of_Meeting.git
     ```
 
 2. *Install Dependencies Frontend (React)*:
